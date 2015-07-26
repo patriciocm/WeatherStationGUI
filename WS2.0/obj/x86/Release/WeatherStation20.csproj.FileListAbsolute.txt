@@ -1,0 +1,2 @@
+C:\Users\CJARDIN\Documents\Visual Studio 2010\Projects\TP Profesional\WeatherStation\2.0\DebuggerWS_20\DebuggerWS_20\obj\x86\Release\DebuggerWS_20.exe
+C:\Users\CJARDIN\Documents\Visual Studio 2010\Projects\TP Profesional\WeatherStation\2.0\DebuggerWS_20\DebuggerWS_20\obj\x86\Release\DebuggerWS_20.pdb
